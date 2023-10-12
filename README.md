@@ -1,6 +1,6 @@
 # Basic of penetration testing 
 
-	**In our journy to learn penetration we take a machines in HTB to can explain the basics of penetration** 
+	**In our journy to learn penetration we take a machines in HTB to can explain the basics of penetration**
 
 ## fawn_machine
 	
