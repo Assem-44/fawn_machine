@@ -16,14 +16,14 @@
 
     ```sudo nmap -sV -sC -A {ip_address}``` you can search seperatly to learn how to use nmap.
 
-  			 ![can't display an image ](images/nmap.png)
+   ![can't display an image ](images/nmap.png)
 
    - when you look in nmap report and try to find any open ports you will got that the `21/tcp` and the service `ftp` on this port and 
         the version is `vsftpd 3.0.3`.
    
    - with doing a quick search in google about ```what is FTP protocol?``` you will got that .
   			
-  			 ![can't display an image](images/ftp_search.png)
+ ![can't display an image](images/ftp_search.png)
     
 - you must not skip this point without searching about ftp protocol in wikipedia.
 
