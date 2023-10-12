@@ -4,7 +4,7 @@
 
 ## fawn_machine
 	
-   - after connecting with vbn will spawn the machine and you will have the ip address for this machine .
+   - after connecting with vpn will spawn the machine and you will have the ip address for this machine .
    - as we explained in meow machine you must know how to download vpn connect with HTB server and ping for IP_address.
 
    ### HERE WE GO .
