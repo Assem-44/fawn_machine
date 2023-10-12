@@ -14,7 +14,7 @@
 
    - go to terminal in your device and type this command:
 
-    ```sudo nmap -sV -sC -A {ip_address}``` you can search seperatly to learn how to use nmap.
+    ```sudo nmap -sV -sC -A {ip_address}``` . you can search seperatly to learn how to use nmap.
 
    ![can't display an image ](images/nmap.png)
 
@@ -49,7 +49,7 @@
  ![can't display an image](images/ftp_help.png)
 
 
- - as you see we will use ftp command as following ```ftp {IP_address}.
+ - as you see we will use ftp command as following ```ftp {IP_address}```.
 
  ![can't display an image](images/ftp_ip.png)
 
