@@ -14,7 +14,8 @@
 
    - go to terminal in your device and type this command:
 
-    ```sudo nmap -sV -sC -A {ip_address}``` . you can search seperatly to learn how to use nmap.
+   - ```sudo nmap -sV -sC -A {ip_address}``` .
+   - you can search seperatly to learn how to use nmap.
 
    ![can't display an image ](images/nmap.png)
 
